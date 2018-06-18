@@ -1,0 +1,55 @@
+The Fellowship of the Ring, J.R.R. Tolkien
+The Two Towers, J.R.R. Tolkien
+The Return of the King, J.R.R. Tolkien
+The Silmarillon, J.R.R. Tolkien
+The Odyssey, Homer
+The Iliad, Homer
+The Aeneid, Virgil
+Metamorphoses, Ovid
+War And Peace, Tolstoy
+Anna Karenina, Tolstoy
+The Death of Ivan Ilyich, Tolstoy
+Brothers Karamazov, Dostoevsky
+Notes from the Underground, Dostoevsky
+The Idiot, Dostoevsky
+Demons, Dostoevsky
+Antifragile, Nassim Taleb
+Black Swan, Nassim Taleb
+Beyond Good and Evil, Friedrich Nietzche
+Thus Spoke Zarathustra, Friedrich Nietzsche
+The Genealogy of Morals, Friedrich Nietzsche
+Benjamin Franklin, Walter Isaacson
+Leonardo Da Vinci, Walter Isaacson
+World Order, Henry Kissinger
+Diplomacy, Henry Kissinger
+On China, Henry Kissinger
+Prisoners of Geography, Tim Marshall
+Metamorphosis, Franz Kafka
+The Trial, Franz Kafka
+The Castle, Franz Kafka
+Who Rules the World?, Noam Chomsky
+How Linux Works, Brian Ward
+Ulysses, James Joyce
+Catch 22, Joseph Heller
+Island, Aldous Huxley
+Selfish Gene, Richard Dawkins
+History of Western philosophy, Bertrand Russell
+Code Complete, Steve McConnell
+The Mythical Man Month, Frederick Brooks
+The Pragmatic Programmer, Andrew Hunt
+Clean Code, Robert Martin
+Gulag Archipelago, Solzhenitsyn
+Capital, Karl Marx
+Communist Manifesto, Karl Marx
+Road to Serfdom, Hayek
+Zero to One, Peter Thiel
+Modern Man in Search of a Soul, Jung
+The Prince, Niccolo Machiavelli
+On Liberty, John Stuart Mill
+The General Theory of Employment, Interest and Money, Keynes
+Oedipus, Sophocles
+Feynman Lectures on Physics I/II/III, Feynman
+Collapse, Jared Diamond
+Short history of Nearly Everything, Bryson
+Infinite Jest, David Foster Wallace
+The War of Art, Steven Presfield
