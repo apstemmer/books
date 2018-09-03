@@ -36,7 +36,6 @@ The Pragmatic Programmer, Andrew Hunt
 Clean Code, Robert Martin
 Gulag Archipelago, Solzhenitsyn
 Capital, Karl Marx
-Communist Manifesto, Karl Marx
 Road to Serfdom, Hayek
 Zero to One, Peter Thiel
 Modern Man in Search of a Soul, Jung
